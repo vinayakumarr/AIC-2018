@@ -10,7 +10,9 @@ and [Vidya Prasad K](https://github.com/Vidya56)
 
 # Software packages
 
-Ubuntu 14.04
+Ubuntu OS
+
+sudo apt-get update
 
 sudo apt-get install libatlas-base-dev gfortran python-dev
 
