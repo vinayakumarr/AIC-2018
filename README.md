@@ -1,6 +1,6 @@
-# AIC-2018
+# Application of machine learning for cyber security
 
-[AIC-2018](http://www.jit.ac.in/announcement/FDP_Brochure.pdf)
+[MLC'18](http://iiitmk.ac.in/mlc18/)
 
 Speakers
 
@@ -8,11 +8,7 @@ Speakers
 [Akarsh S](https://www.researchgate.net/profile/Akarsh_Soman)
 and [Vidya Prasad K](https://github.com/Vidya56)
 
-# Software packages
-
-Ubuntu OS
-
-sudo apt-get update
+Required packages - Ubuntu 14.04
 
 sudo apt-get install libatlas-base-dev gfortran python-dev
 
@@ -49,13 +45,5 @@ sudo pip install plotly
 sudo pip install scikit-plot
 
 sudo pip install pyleargist
-
-# windows
-
-Download Anaconda python 2.7 from https://www.anaconda.com/download/
-
-Install Anaconda
-
-Using pip install all the above mentioned packages
 
 The related publications for each use case is avilable [here](https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao)
