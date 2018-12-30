@@ -1,6 +1,6 @@
 # Application of machine learning for cyber security
 
-[MLC'18](http://iiitmk.ac.in/mlc18/)
+[AIC'18](http://www.jit.ac.in/announcement/FDP_Brochure.pdf)
 
 Speakers
 
