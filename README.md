@@ -50,4 +50,12 @@ sudo pip install scikit-plot
 
 sudo pip install pyleargist
 
+# windows
+
+Download Anaconda python 2.7 from https://www.anaconda.com/download/
+
+Install Anaconda
+
+Using pip install all the above mentioned packages
+
 The related publications for each use case is avilable [here](https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao)
