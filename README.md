@@ -1,4 +1,5 @@
-# Application of machine learning for cyber security
+# Tutorials for Two Day National Level Workshop on AI in CS - Modern Artificial Intelligence Techniques for Cyber Security
+# Application of machine learning for cyber security - Jansons Institute of Technology
 
 [AIC'18](http://www.jit.ac.in/announcement/FDP_Brochure.pdf)
 
